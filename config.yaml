@@ -14,12 +14,10 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: About
-      url: /about/
-    - name: GitHub
-      url: https://github.com/rstudio/blogdown
-    - name: Twitter
-      url: https://twitter.com/rstudio
+    - name: Materialien
+      url: downloads.html
+    - name: Der Kurs
+      url: https://www.vhs-bonn.de/programm/beruf-it-und-digitales.html?action%5B148%5D=course&courseId=484-C-E5725&rowIndex=2
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
@@ -34,7 +32,7 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: logo.png
+    url: logo-miguel.png
     width: 50
 markup:
   defaultMarkdownHandler: goldmark

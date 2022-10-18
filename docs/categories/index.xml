@@ -5,16 +5,6 @@
     <link>https://kamapu.github.io/RKurs-VHS-2022/categories/</link>
     <description>Recent content in Categories on R Kurs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://kamapu.github.io/RKurs-VHS-2022/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>R</title>
-      <link>https://kamapu.github.io/RKurs-VHS-2022/categories/r/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://kamapu.github.io/RKurs-VHS-2022/categories/r/</guid>
-      <description></description>
-    </item>
-    
+    <language>de-de</language><atom:link href="https://kamapu.github.io/RKurs-VHS-2022/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
