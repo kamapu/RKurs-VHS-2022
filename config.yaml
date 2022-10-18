@@ -15,7 +15,7 @@ permalinks:
 menu:
   main:
     - name: Materialien
-      url: downloads.html
+      url: /downloads/
     - name: Der Kurs
       url: https://www.vhs-bonn.de/programm/beruf-it-und-digitales.html?action%5B148%5D=course&courseId=484-C-E5725&rowIndex=2
 params:
