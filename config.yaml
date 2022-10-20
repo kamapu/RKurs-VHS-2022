@@ -14,10 +14,10 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: Materialien
+    - name: Zurück
+      href: index.html
+    - name: Extras
       url: /downloads/
-    - name: Der Kurs
-      url: https://www.vhs-bonn.de/programm/beruf-it-und-digitales.html?action%5B148%5D=course&courseId=484-C-E5725&rowIndex=2
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
@@ -32,7 +32,7 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: logo-miguel.png
+    url: logo.png
     width: 50
 markup:
   defaultMarkdownHandler: goldmark

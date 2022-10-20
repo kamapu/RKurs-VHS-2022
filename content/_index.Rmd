@@ -1,0 +1,17 @@
+---
+title: Einführung in R und RStudio
+output: html_document
+---
+
+Dieser Kurs bietet einen Einstieg in die Grundlagen des Programmierens mit R,
+die Verwendung von RStudio und die Nutzung von Rmarkdown.
+
+Der Kurs ist von der Volkshochschule Bonn organisiert. Für weitere Infos,
+klicken Sie
+[hier](https://www.vhs-bonn.de/programm/beruf-it-und-digitales.html?action%5B148%5D=course&courseId=484-C-E5725&rowIndex=2).
+
+# Termin 1 & 2
+
+Inhalt
+
+[Folien](/documents/FolienRKurs-12.pdf)

@@ -2,8 +2,4 @@
 site: blogdown:::blogdown_site
 ---
 
-# Einführung in R und RStudio
-
-Blabla
-
 <!-- This file is for blogdown only. Please do not edit it. -->
