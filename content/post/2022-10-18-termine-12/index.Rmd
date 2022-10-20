@@ -1,7 +1,0 @@
----
-title: Termine 1 und 2
-date: "2022-10-18"
-output: blogdown::html_page
----
-
-[Folien](FolienRKurs-12.pdf)

@@ -3,6 +3,10 @@ title: Kurs Materialien
 output: html_document
 ---
 
-### Benötigtes Software
+# Extras
 
-[download](../documents/installieren.pdf)
+[Benötigstes Software](../documents/installieren.pdf)
+
+# Folien
+
+[Termine 1 & 2](../documents/FolienRKurs-12.pdf)
