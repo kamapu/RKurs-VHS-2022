@@ -10,8 +10,9 @@ Der Kurs ist von der Volkshochschule Bonn organisiert. Für weitere Infos,
 klicken Sie
 [hier](https://www.vhs-bonn.de/programm/beruf-it-und-digitales.html?action%5B148%5D=course&courseId=484-C-E5725&rowIndex=2).
 
-# Termin 1 & 2
+# Termine 1 und 2
 
-Inhalt
+Einstieg in das Syntax und die Datentypen in **R**, inklusive eine Einführung in
+die Nutzung von **RStudio**.
 
 [Folien](documents/FolienRKurs-12.pdf)

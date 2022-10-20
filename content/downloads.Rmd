@@ -7,6 +7,8 @@ output: html_document
 
 [Benötigstes Software](../documents/installieren.pdf)
 
+[Literaturhinweis](../documents/Referenzen.pdf)
+
 # Folien
 
 [Termine 1 & 2](../documents/FolienRKurs-12.pdf)
