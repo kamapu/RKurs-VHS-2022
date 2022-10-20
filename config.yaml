@@ -14,9 +14,7 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: Zurück
-      href: index.html
-    - name: Extras
+    - name: Materialien
       url: /downloads/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
