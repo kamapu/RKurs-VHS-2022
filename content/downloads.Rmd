@@ -13,8 +13,10 @@ output: html_document
 
 [Termine 1 & 2](../documents/FolienRKurs-12.pdf)
 
-# Skripte
+# Skripte und Datensätze
 
 [Termin 1](../documents/Tag1.R)
 
 [Termin 2](../documents/Tag2.R)
+
+[Datensatz](../documents/KursDateien.zip)
