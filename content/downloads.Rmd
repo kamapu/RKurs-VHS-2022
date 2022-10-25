@@ -13,6 +13,8 @@ output: blogdown::html_page
 
 [Termine 1 & 2](../documents/FolienRKurs-12.pdf)
 
+[Termine 3 & 4](../documents/FolienRKurs-34.pdf)
+
 # Skripte und Datensätze
 
 [Termin 1](../documents/Tag1.R)

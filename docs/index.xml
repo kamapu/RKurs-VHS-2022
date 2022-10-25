@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Einführung in R und RStudio on R Kurs</title>
+    <title>R Kurs</title>
     <link>https://kamapu.github.io/RKurs-VHS-2022/</link>
-    <description>Recent content in Einführung in R und RStudio on R Kurs</description>
+    <description>Recent content on R Kurs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kamapu.github.io/RKurs-VHS-2022/index.xml" rel="self" type="application/rss+xml" />
@@ -36,6 +36,7 @@ download.file(url = &amp;quot;https://kamapu.github.io/RKurs-VHS-2022/documents/
       <description>Extras Benötigstes Software
 Literaturhinweis
 Folien Termine 1 &amp;amp; 2
+Termine 3 &amp;amp; 4
 Skripte und Datensätze Termin 1
 Termin 2
 Datensatz</description>
