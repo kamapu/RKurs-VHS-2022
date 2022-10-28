@@ -17,8 +17,8 @@ output: blogdown::html_page
 
 # Skripte und Datensätze
 
-[Termin 1](../documents/Tag1.R)
+[Termin 1](../documents/Tag1.R) [Termin 2](../documents/Tag2.R)
 
-[Termin 2](../documents/Tag2.R)
+[Termin 3](../documents/Tag3.R) [Termin 4](../documents/Tag4.R)
 
 [Datensatz](../documents/KursDateien.zip)
