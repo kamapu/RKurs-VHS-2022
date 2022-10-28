@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R Kurs</title>
+    <title>Einführung in R und RStudio on R Kurs</title>
     <link>https://kamapu.github.io/RKurs-VHS-2022/</link>
-    <description>Recent content on R Kurs</description>
+    <description>Recent content in Einführung in R und RStudio on R Kurs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kamapu.github.io/RKurs-VHS-2022/index.xml" rel="self" type="application/rss+xml" />
@@ -25,6 +25,21 @@ download.file(url = &amp;quot;https://kamapu.github.io/RKurs-VHS-2022/documents/
       
       <guid>https://kamapu.github.io/RKurs-VHS-2022/about/</guid>
       <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+    </item>
+    
+    <item>
+      <title>Kurs Materialien</title>
+      <link>https://kamapu.github.io/RKurs-VHS-2022/downloads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kamapu.github.io/RKurs-VHS-2022/downloads/</guid>
+      <description>Extras Benötigstes Software
+Literaturhinweis
+Folien Termine 1 &amp;amp; 2
+Termine 3 &amp;amp; 4
+Skripte und Datensätze Termin 1 Termin 2
+Termin 3 Termin 4
+Datensatz</description>
     </item>
     
   </channel>
