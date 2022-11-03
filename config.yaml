@@ -16,6 +16,8 @@ menu:
   main:
     - name: Materialien
       url: /downloads/
+    - name: Zurück
+      url: /
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5

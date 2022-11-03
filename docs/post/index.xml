@@ -6,7 +6,17 @@
     <description>Recent content in Posts on R Kurs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kamapu.github.io/RKurs-VHS-2022/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kamapu.github.io/RKurs-VHS-2022/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Die Verwandlung von RStudio</title>
+      <link>https://kamapu.github.io/RKurs-VHS-2022/2022/11/02/die-verwandlung-von-rstudio/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kamapu.github.io/RKurs-VHS-2022/2022/11/02/die-verwandlung-von-rstudio/</guid>
+      <description>Ich habe davon erst gestern erfahren obwohl die Pläne schon in Juli 2022 angekündigt wurden: RStudio wechselt sein Name für Posit. Dadurch wird die Programmiersprache Python den gleichen Gewicht wie R in dem Integrierten Entwicklungsumgebung.
+Weitere Infos befinden sich unter diesem Link und das neue Homepage https://posit.co/.</description>
+    </item>
+    
     <item>
       <title>Dateien herunterladen</title>
       <link>https://kamapu.github.io/RKurs-VHS-2022/2022/10/24/dateien-herunterladen/</link>
