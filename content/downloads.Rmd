@@ -21,4 +21,4 @@ output: blogdown::html_page
 
 [Termin 3](../documents/Tag3.R) [Termin 4](../documents/Tag4.R)
 
-[Datensatz](../documents/KursDateien.zip)
+[Datensatz](../2022/10/24/dateien-herunterladen/)

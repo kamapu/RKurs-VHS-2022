@@ -6,7 +6,17 @@
     <description>Recent content in Posts on R Kurs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kamapu.github.io/RKurs-VHS-2022/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kamapu.github.io/RKurs-VHS-2022/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schummelzettel</title>
+      <link>https://kamapu.github.io/RKurs-VHS-2022/2022/11/03/schummelzettel/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kamapu.github.io/RKurs-VHS-2022/2022/11/03/schummelzettel/</guid>
+      <description>Wenn man gerade die Arbeit mit R lernt oder in neuen Anwendungen eingeführt wird, verschaffen Schummelzettel eine gute Überblick der wichtigten Funktionen oder Argumenten. Hier ist eine Liste von solchen Zetteln, die man in Internet finden kann.
+Short’s R Reference Card Klicke hier The R Graph Gallery Klicke hier R Color Chart Klicke hier Data tidying with tidyr Cheat Sheet Klicke hier! knitr Reference Card Klicke hier! R Markdown Cheat Sheet Klicke hier!</description>
+    </item>
+    
     <item>
       <title>Die Verwandlung von RStudio</title>
       <link>https://kamapu.github.io/RKurs-VHS-2022/2022/11/02/die-verwandlung-von-rstudio/</link>
