@@ -13,6 +13,11 @@ Files[!grepl(".log", Files, fixed = TRUE)]
 unlink("static/documents/KursDateien.zip")
 zip("static/documents/KursDateien.zip", Files, mode = "cherry-pick")
 
+# Downloads
+Files <- c("installieren.pdf", "Referenzen.pdf")
+file.copy(from = file.path("../../vhs-bonn/bonn-2022-r-intro/downloads/",
+        Files), to = "static/documents", overwrite = TRUE)
+
 # Build the page
 build_site(build_rmd = TRUE)
 ## serve_site()

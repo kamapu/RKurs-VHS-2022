@@ -28,3 +28,10 @@ Einführung in R-Objekten mit einer besonderen Berücksichtigung von Datensätze
 [Skript Tag 3](documents/Tag3.R)
 [Skript Tag 4](documents/Tag4.R)
 
+# Termine 5 und 6
+
+Statistische Auswertungen von Datensätzen (Klasse `data.frame`) und
+Erstellung von Graphiken (Plots). Dazu werden bewährte Verfahren für
+Datenverwaltung diskutiert.
+
+[Skript Tag 5](documents/Tag5.R)
