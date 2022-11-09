@@ -35,3 +35,4 @@ Erstellung von Graphiken (Plots). Dazu werden bewährte Verfahren für
 Datenverwaltung diskutiert.
 
 [Skript Tag 5](documents/Tag5.R)
+[Skript Tag 6](documents/Tag6.R)
