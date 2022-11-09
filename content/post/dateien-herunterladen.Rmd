@@ -6,7 +6,7 @@ output: blogdown::html_page
 ---
 
 Die benötigte Dateien für diesen Kurs stehen zur Verfügung unter folgenden
-[Link](http://localhost:4321/RKurs-VHS-2022/documents/KursDateien.zip).
+[Link](http://kamapu.github.io/RKurs-VHS-2022/documents/KursDateien.zip).
 
 Um diese Dateien direkt in deinem Arbeitsverzeichnis zu speichern, führe
 folgende Befehle in deiner Sitzung:
