@@ -34,12 +34,14 @@ Bib <- subset(Bib, bibtexkey %in% Refs$bibtexkey)
 reflist(Bib, "static/documents/Referenzen", title = "Empfohlene Referenzen",
     author = "Miguel Alvarez", output = "pdf_document")
 
-# Downloads
-Files <- c("installieren.pdf", "Referenzen.pdf")
-file.copy(from = file.path("../../vhs-bonn/bonn-2022-r-intro/downloads/",
-        Files), to = "static/documents", overwrite = TRUE)
+# Folien
+Files <- list.files(file.path(Repo, "Folien"), pattern = ".Rmd",
+    full.names = TRUE)
 
-# TODO: Render slides
+for(i in Files) render(i)
+
+Files <- sub(".Rmd", ".pdf", Files, fixed = TRUE)
+file.copy(from = Files, to = "static/documents", overwrite = TRUE)
 
 # Build the page
 build_site(build_rmd = TRUE)
