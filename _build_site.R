@@ -3,20 +3,43 @@
 # Author: Miguel Alvarez
 ################################################################################
 
+library(rmarkdown)
 library(blogdown)
+library(biblio)
+library(readODS)
 library(zip)
 library("git2r")
 
+Repo <- "../../vhs-bonn/bonn-2022-r-intro"
+
 # Produce data set
-Files <- list.files("../../vhs-bonn/bonn-2022-r-intro/data/", full.names = TRUE)
+Files <- list.files(file.path(Repo, "data"), full.names = TRUE)
 Files[!grepl(".log", Files, fixed = TRUE)]
 unlink("static/documents/KursDateien.zip")
 zip("static/documents/KursDateien.zip", Files, mode = "cherry-pick")
+
+# Instruction for installing
+Files <- file.path(Repo, "downloads", "installieren.Rmd")
+render(Files)
+
+Files <- sub(".Rmd", ".pdf", Files, fixed = TRUE)
+file.copy(from = Files, to = "static/documents", overwrite = TRUE)
+
+# Reference list
+Refs <- read_ods(file.path(Repo, "downloads", "bib_references.ods"))
+
+Bib <- read_bib("../../db-dumps/literatur_db/bib/MiguelReferences.bib")
+Bib <- subset(Bib, bibtexkey %in% Refs$bibtexkey)
+
+reflist(Bib, "static/documents/Referenzen", title = "Empfohlene Referenzen",
+    author = "Miguel Alvarez", output = "pdf_document")
 
 # Downloads
 Files <- c("installieren.pdf", "Referenzen.pdf")
 file.copy(from = file.path("../../vhs-bonn/bonn-2022-r-intro/downloads/",
         Files), to = "static/documents", overwrite = TRUE)
+
+# TODO: Render slides
 
 # Build the page
 build_site(build_rmd = TRUE)
